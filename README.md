@@ -31,3 +31,4 @@ python experiments/exporter_main_v2.py --input_type image_tensor --pipeline_conf
 ```
 python inference_video.py --labelmap_path label_map.pbtxt --model_path experiments/reference/exported/saved_model --tf_record_path /data/waymo/testing/segment-12200383401366682847_2552_140_2572_140_with_camera_labels.tfrecord --config_path experiments/reference/pipeline_new.config --output_path animation.gif
 ```
+* of course file paths should be changed; commands should be launched from `/home/workspace/nd013-c1-vision-starter/` folder.
