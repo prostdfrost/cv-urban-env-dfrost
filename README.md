@@ -1,6 +1,6 @@
 # Object Detection in an Urban Environment
 
-The project write up as well as the setup instructions can be found in objectDetectionInUrbanEnvironments042823.pdf. pptx with the movies is available [here](https://docs.google.com/presentation/d/1PHuGeC5s_U2JwjKNmm-D3t4GYEoq3CDc/edit?usp=share_link&ouid=100895622648891722365&rtpof=true&sd=true).
+The project write up as well as the setup instructions can be found in objectDetectionInUrbanEnvironments042823.pdf. pptx with the movies is available [here](https://docs.google.com/presentation/d/1aZ3bF0jNx8HkGZAjNCiPTCNZAYKPoRaq/edit?usp=share_link&ouid=100895622648891722365&rtpof=true&sd=true). Please note that if links in the ppt do not open by clicking - please paste them in browser (and vice versa).
 
 Pipelines use an SSD Resnet 50 640x640 model as a fine tune checkpoint - download it from [pretrained model](http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8.tar.gz) and place in
 ```
