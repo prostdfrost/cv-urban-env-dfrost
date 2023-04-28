@@ -7,7 +7,7 @@ Pipelines use an SSD Resnet 50 640x640 model as a fine tune checkpoint - downloa
 /home/workspace/nd013-c1-vision-starter/experiments/pretrained_model
 ```
 
-Fine tune checkpoint for Augmentations2 can be downloaded from [here](https://drive.google.com/drive/folders/1oOOhnG_BqQTSscGAWOwWGdQD5OHZ62r?usp=sharing)
+Fine tune checkpoint for Augmentations2 can be downloaded from [here](https://drive.google.com/drive/folders/1oOOhnG_BqQTSs-cGAWOwWGdQD5OHZ62r?usp=share_link)
 and should be placed in the folder
 ```
 /home/workspace/nd013-c1-vision-starter/augs3-start-wth-augs2/exported
